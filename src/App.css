@@ -74,6 +74,36 @@ nav {
   height: 180px;
 }
 
+.contact-section {
+  display: flex;
+  flex-direction: column;
+  border: 10px solid rgb(122, 152, 171);
+  border-radius: 5px;
+  background-color: rgb(168, 189, 189);
+  margin: 6.25%;
+}
+
+
+.contact-section form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-section input,
+.contact-section label {
+  width: 500px;
+  height: 30px;
+  font-size: 20px;
+  margin: 0 25%;
+}
+
+.contact-section textarea {
+  width: 500px;
+  height: 200px;
+  font-size: 20px;
+  margin: 0 25%;
+}
+
 footer {
   display: flex;
   justify-content: center;

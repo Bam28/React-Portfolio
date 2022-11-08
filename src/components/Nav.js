@@ -10,7 +10,7 @@ export default function Nav() {
       <nav>
         <h1 className='name'>Luis Jimenez</h1>
           <section className='nav-list'>
-            <NavLink to='' className={'navlink'}>About Me</NavLink>
+            <NavLink to='React-Portfolio' className={'navlink'}>About Me</NavLink>
             <NavLink to='portfolio' className={'navlink'}>Portfolio</NavLink>
             <NavLink to='contact' className={'navlink'}>Contact</NavLink>
             <NavLink to='resume' className={'navlink'}>Resume</NavLink>
