@@ -1,0 +1,100 @@
+body,
+header {
+  background-color: rgb(20, 52, 89);
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0 6.25%;
+  background-color: rgb(224, 251, 252);
+}
+
+.name {
+  display: flex;
+  flex-grow: 1;
+  font-family: 'Fasthand', cursive;
+  font-size: 40px;
+}
+
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 2;
+  gap: 40px;
+  list-style: none;
+}
+
+.navlink {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.navlink:hover, .navlink:focus, .navlink:active {
+  color: rgb(112, 126, 126);
+}
+
+.navlink, a:visited {
+  color: inherit;
+}
+
+.content-link {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 12px;
+  border: 2px solid  rgb(168, 189, 189);
+  background-color: rgb(122, 152, 171);
+}
+
+.content-link h1 {
+  color: rgb(20, 52, 89);
+}
+
+.portfolio-section {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 12.5% 0;
+  gap: 6.5%;
+}
+
+.portfolio-section a {
+  border: 10px solid rgb(122, 152, 171);
+  border-radius: 5px;
+  background-color: rgb(168, 189, 189);
+}
+
+.portfolio-image {
+  width: auto;
+  height: 180px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(224, 251, 252);
+}
+
+footer ul {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  list-style: none;
+}
+
+footer img {
+  width: auto;
+  height: 64px;
+}
+
+footer img:hover {
+  opacity: 0.5;
+}
