@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.658ca99c.css",
-    "main.js": "/React-Portfolio/static/js/main.6b01712b.js",
+    "main.css": "/React-Portfolio/static/css/main.508b7ca6.css",
+    "main.js": "/React-Portfolio/static/js/main.8aef2b84.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/The-Scranton-Gamer.png": "/React-Portfolio/static/media/The-Scranton-Gamer.710c6cee0144f40b4a41.png",
     "static/media/Weather-Dashboard.png": "/React-Portfolio/static/media/Weather-Dashboard.fc6575dfa71b6841cfb8.png",
     "static/media/Quiz-maker.png": "/React-Portfolio/static/media/Quiz-maker.df5988b6eabefde12b8a.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.658ca99c.css.map": "/React-Portfolio/static/css/main.658ca99c.css.map",
-    "main.6b01712b.js.map": "/React-Portfolio/static/js/main.6b01712b.js.map",
+    "main.508b7ca6.css.map": "/React-Portfolio/static/css/main.508b7ca6.css.map",
+    "main.8aef2b84.js.map": "/React-Portfolio/static/js/main.8aef2b84.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.658ca99c.css",
-    "static/js/main.6b01712b.js"
+    "static/css/main.508b7ca6.css",
+    "static/js/main.8aef2b84.js"
   ]
 }
